@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74b54c90-c334-4e51-b758-b6afe50e258f" name="Changes" comment="Threads Assignment">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/Arrays/FriendsComparison.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/Arrays/LargestDigitDynamic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/Arrays/LargestsDigit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/BMICalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/EmployeeBonus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/BMIProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/DigitFrequency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/FactorsArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/FizzBuzzArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/MatrixToArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/MeanHeight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/MultiplicationTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/MultiplicationTableArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/NumberCheck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/OddEvenArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/StoreValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/StudentGrades.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/StudentGrades2D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/gla/arrays/VotingEligibility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes-projects/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes-projects/com/gla/class_objects/level1/ChocolateDivide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GLA JAWA/New folder/Bridgelabz-Training-1Y",
     "onboarding.tips.debug.path": "D:/self/Encapsulation/src/Main.java"
   }
 }]]></component>
