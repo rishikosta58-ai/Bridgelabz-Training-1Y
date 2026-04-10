@@ -1,3 +1,5 @@
+package com.gla.logistics_company;
+
 class DeliveryCheckpoint extends Checkpoint {
 
     public DeliveryCheckpoint(String id, String location,
